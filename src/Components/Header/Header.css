@@ -1,0 +1,22 @@
+.badge-light{
+background-color: white;
+color: black !important;
+margin-left: 10px;
+border-radius: 20px;
+}
+img{
+    width: 150px;
+}
+.searchbar{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.searchbar input{
+    border: 0;
+    outline: 0;
+    background-color: var(  --input-color);
+}
+.katalog{
+    font-weight:bolder;
+}

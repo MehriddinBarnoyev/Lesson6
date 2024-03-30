@@ -1,0 +1,24 @@
+.productCard {
+    background: var(--dark);
+}
+.productCard:hover {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.384);
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: var(--dark);
+}
+
+.priceMonth {
+    background-color: var(--dark);
+    padding: 1px 8px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.imgLOgo {
+    width: 150px;
+}
+
+.btn {
+    border-radius: 20px;
+}
